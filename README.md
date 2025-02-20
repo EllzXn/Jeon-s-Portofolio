@@ -34,4 +34,4 @@ Portofolio ini memiliki beberapa fitur unggulan, antara lain:
 Jika menggunakan Git, jalankan perintah berikut di terminal:  
 
 ```bash
-git clone https://github.com/EllzXn/jeon-s-portofolio.git
+git clone https://github.com/EllzXn/Jeon-s-Portofolio.git
