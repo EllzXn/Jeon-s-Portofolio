@@ -35,8 +35,3 @@ Jika menggunakan Git, jalankan perintah berikut di terminal:
 
 ```bash
 git clone https://github.com/EllzXn/jeon-s-portofolio.git
-
----
-
-### **2️⃣ Buka Di Browser**
-Download file ZIP dan ekstrak. Klik dua kali pada index.html, dan buka dengan browser favoritmu
